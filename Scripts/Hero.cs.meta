@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6cc540d7722307040af4d84fe549bd63
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _bulletPrefub: {fileID: 2694233763992095658, guid: 028c157a6f0db084b9a449902a2c2f5b, type: 3}
+  - _enemyPrefub: {fileID: 7306543705975985136, guid: 3a61e42a303b0b74f9dff5379fb6d87f, type: 3}
+  - _bulletSpawn: {instanceID: 0}
+  - _enemySpawn: {instanceID: 0}
+  - _bomb: {fileID: 129533094390873387, guid: 8f691db76b50462468c32e079d0ea9a0, type: 3}
+  - Effects: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
